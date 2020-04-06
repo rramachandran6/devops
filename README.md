@@ -1,2 +1,2 @@
 # devops
-this is repository for devops training
+This is repository for devops training
